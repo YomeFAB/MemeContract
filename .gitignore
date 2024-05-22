@@ -1,0 +1,9 @@
+.DS_Store
+meme-nft/.anchor
+meme-nft/.DS_Store
+meme-nft/target
+meme-nft/**/*.rs.bk
+meme-nft/node_modules
+meme-nft/test-ledger
+meme-nft/.yarn
+
